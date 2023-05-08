@@ -7,7 +7,7 @@
 - 📫 How to reach me, via Email: elmarouanelouardi@gmail.com -or via LinkedIn- https://www.linkedin.com/in/marouan-elouardi/ .
 
 <a href="#">
-  <img align="center" src="https://readme-stats-git-main-ceiiardoor.vercel.app/api/top-langs/?username=MarouanElOuardi&layout=compact&hide=html,css&&langs_count=10&size_weight=0.5&count_weight=0.5" style="max-width: 100%;">
+  <img align="center" src="https://readme-stats-git-main-ceiiardoor.vercel.app/api/top-langs/?username=MarouanElOuardi&layout=compact&hide=html,css&langs_count=10&size_weight=0.5&count_weight=0.5" style="max-width: 100%;">
 </a>
 <a href="#">
   <img align="center" src="https://readme-stats-git-main-ceiiardoor.vercel.app/api?username=MarouanElOuardi&hide=stars" style="max-width: 100%;">
