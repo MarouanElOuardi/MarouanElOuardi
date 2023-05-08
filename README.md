@@ -6,3 +6,9 @@
 - 💞️ I’m looking to collaborate on projects to learn more and improve my skills and experience, also to be helpful.
 - 📫 How to reach me, via Email: elmarouanelouardi@gmail.com -or via LinkedIn- https://www.linkedin.com/in/marouan-elouardi/ .
 
+<a href="#">
+  <img align="center" src="https://readme-stats-git-main-ceiiardoor.vercel.app/api/top-langs/?username=MarouanElOuardi&layout=compact&hide=html,css" style="max-width: 100%;">
+</a>
+<a href="#">
+  <img align="center" src="https://readme-stats-git-main-ceiiardoor.vercel.app/api?username=MarouanElOuardi" style="max-width: 100%;">
+</a>
