@@ -1,14 +1,3 @@
-- 👋 Hi, I’m Marouan El Ouardi 5th Year Engineering Student at The Moroccan School of Engineering Sciences: IT Development(3rd year in engineering cycle).
-       Since I was a kid, I always had the passion to discover things, first I used to disassemble my toys in order to look what's inside them and understand how they work, and when I got a little bit older, I loved video games, internet, and everything related to computers, electronics and technology, I wanted to understand how this things work either, and to participate in this big world. I found this in Software engineering, the passion to learn new things and understand the mechanisms of everything related to computers.
-       I'm always open to learn new skills, new abilities, and trying to be a part of this electronic world. 
-      
-- 👀 I’m interested in IT Development, Desktop Software, Game, Web Development...
-- 💞️ I’m looking to collaborate on projects to learn more and improve my skills and experience, also to be helpful.
-- 📫 How to reach me, via Email: elmarouanelouardi@gmail.com -or via LinkedIn- https://www.linkedin.com/in/marouan-elouardi/ .
+- 👋 Hi, I’m Marouan El Ouardi, a dedicated 5th-year Engineering student at The Moroccan School of Engineering Sciences specializing in Software and Network Engineering, with a focus on my 3rd year in the engineering cycle, I have nurtured an innate curiosity for unraveling the inner workings of technology since childhood. My journey began with disassembling toys to grasp their intricacies and has since evolved into an unwavering passion for all facets of computers, electronics, and technology.
 
-<a href="#">
-  <img align="center" src="https://readme-stats-git-main-ceiiardoor.vercel.app/api/top-langs/?username=MarouanElOuardi&langs_count=8&size_weight=0.5&count_weight=0.5" style="max-width: 100%;">
-</a>
-<a href="#">
-  <img align="center" src="https://readme-stats-git-main-ceiiardoor.vercel.app/api?username=MarouanElOuardi&hide=stars" style="max-width: 100%;">
-</a>
+My deep-seated fascination with the digital realm led me to the world of Software Engineering, where I am continually driven to expand my knowledge and comprehend the intricate mechanisms that underpin computer systems. I am committed to staying at the forefront of this ever-evolving field, eagerly embracing new skills and abilities as I strive to play an integral role in the dynamic world of technology.
